@@ -1,0 +1,9 @@
+/*
+
+*/
+
+.insta-img{
+	display: inline;
+	float: left;
+	border: 3px #333 solid;
+}
